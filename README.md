@@ -1,7 +1,10 @@
 # Assistable Resources by Prompted LLC 
 
+
+
 <aside>
-<img src="/icons/throat_purple.svg" alt="/icons/throat_purple.svg" width="40px" /> AI eats pretty much anything: rotten tokens, mediocre tokens, dumpster tokens… **Stop feeding it garbage tokens.** Feed it ‘tasty_tokens’ and continue to differentiate your platform with better AI.
+
+  AI eats pretty much anything: rotten tokens, mediocre tokens, dumpster tokens… **Stop feeding it garbage tokens.** Feed it ‘tasty_tokens’ and continue to differentiate your platform with better AI.
 
 </aside>
 
