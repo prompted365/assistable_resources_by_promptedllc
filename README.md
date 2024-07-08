@@ -569,9 +569,3 @@ https://agencentric.com/dashboard/1712793439833x896111487368298500
 https://promptedllc.com/
 
 https://breyden-taylor.notion.site/Assistable-AI-Resources-by-Prompted-LLC-0982136db12d4d87872a0c8954e25298?pvs=4
-
-### contact
-
-https://links.promptedllc.com/widget/form/kXZtw4g04qxWF65IXbby
-
-breyden@prompted.community
