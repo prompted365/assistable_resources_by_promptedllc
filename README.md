@@ -1,6 +1,14 @@
-# Assistable documentation for AI ingest - by Prompted LLC
+# Assistable Resources by Prompted LLC 
 
-Documentation and transcripts redesigned as json for knowledge source files
+<aside>
+<img src="/icons/throat_purple.svg" alt="/icons/throat_purple.svg" width="40px" /> AI eats pretty much anything: rotten tokens, mediocre tokens, dumpster tokens… **Stop feeding it garbage tokens.** Feed it ‘tasty_tokens’ and continue to differentiate your platform with better AI.
+
+</aside>
+
+> **Assistable Resources** by **Prompted LLC**
+> 
+
+Documentation and transcripts redesigned as json to be used as a knowledge source
 
 ## Json Structure Diagram
 
